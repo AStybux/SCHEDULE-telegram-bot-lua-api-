@@ -166,7 +166,7 @@ lt.am = "Отправлено сообщение"
 
 -- Путь для сохранения файлов
 local s = {}
-s.path = "/home/hexagontal/Desktop/p/Public/dev/tmp"
+s.path = ""
 
 -- Возвращаем все настройки
 return {
