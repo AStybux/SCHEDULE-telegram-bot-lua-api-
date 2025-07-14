@@ -11,7 +11,7 @@ local https = require('ssl.https')
 local url = require('socket.url')
 ```
 
-You can run this code if clone git repo and start this command(if you have correct lua version, example - 5.1)
+You can run this code if clone git repo and start this command (if you have correct lua version, example - 5.1)
 ```Lua
 lua telegram-bot-lua-api202513072025.lua
 ```
